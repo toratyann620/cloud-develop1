@@ -21,7 +21,7 @@ progress: false
 
 ## 第 1 章 Azureの概要
 
-- [Azureの概要](/1/Azureの概要)
+- [Azureの概要](/1/Azureの概要.md)
 
 ## 第 2 章 仮想マシンを作ってみよう
 
