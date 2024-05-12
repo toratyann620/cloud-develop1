@@ -11,9 +11,6 @@ progress: false
 
 内容は随時更新されます。
 
-[ドキュメントの書式について](readme)
-
-[md について](template)
 :::
 
 :::warning 404 エラーが出る場合
